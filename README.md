@@ -1,2 +1,2 @@
 # GestionaleJava
- Un piccolo programma Java per la gestione di personale nelle aziende.
+A Java prohram for companies staff management.
